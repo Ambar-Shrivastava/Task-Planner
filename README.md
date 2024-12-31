@@ -1,7 +1,7 @@
 # TaskPlanner_AI
 # Task Planner Generator from Meeting Recordings
 
-This application automatically generates task planners from meeting recordings by extracting key details such as tasks, deadlines, assignees. The solution leverages AWS services like Amazon Transcribe, Lambda, DynamoDB, S3, EC2 and integrates OpenAI's NLP for task extraction. It streamlines task management and improves productivity by converting meeting recordings into actionable tasks.
+This application automatically generates task planners from meeting recordings by extracting key details such as tasks, deadlines, assignees. The solution leverages AWS services like Amazon Transcribe, Lambda, DynamoDB, S3, EC2 and integrates OpenAI's NLP for task extraction and Reactjs for UI design. It streamlines task management and improves productivity by converting meeting recordings into actionable tasks.
 
 ## Features
 
