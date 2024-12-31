@@ -96,7 +96,7 @@ This application automates the tedious task of generating task planners from mee
 
 ## Developers
 
-Ambar Shrivastava
-Sai Charan Reddy Vangala
-Santhosh Ravula
+Ambar Shrivastava,
+Sai Charan Reddy Vangala,
+Santhosh Ravula,
 Manasa Gunreddy
